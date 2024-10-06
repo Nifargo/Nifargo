@@ -5,8 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nifargo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nifargo&layout=compact&langs_count=6&theme=tokyonight"/>
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="120" alt="Java">
-  <img src="https://static.vecteezy.com/system/resources/previews/000/339/162/non_2x/javascript-logo.png" width="120" alt="JavaScript">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/141/881/non_2x/typescript-logo.png" width="120" alt="TypeScript">
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="120" alt="JavaScript">
+  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="120" alt="TypeScript">
   <img src="https://img.icons8.com/color/2x/appium.png" width="120" alt="Appium">
   <img src="https://playwright.dev/img/logo-large.png" width="120" alt="Playwright">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Selenium_logo.png" width="120" alt="Selenium">
