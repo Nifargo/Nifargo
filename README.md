@@ -9,7 +9,7 @@
   <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="120" alt="TypeScript">
   <img src="https://images.credly.com/size/680x680/images/af6eb254-169b-452a-a63c-5a1f986ed4cc/appium.png" width="120" alt="Appium">
   <img src="https://miro.medium.com/v2/resize:fit:768/format:webp/1*qsVbAwEINjfgaGe2SuK3oQ.png" width="120" alt="Selenium">
-  <img src="https://testsigma.com/blog/wp-content/uploads/Rest-Assured-vs-Postman.png" width="120" alt="RestAssured">
+  <img src="https://avatars0.githubusercontent.com/u/19369327?s=400&v=4" width="120" alt="RestAssured">
 </table>
 
 <div> 
