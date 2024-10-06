@@ -1,36 +1,16 @@
 # Dive into the World of Code – I'm Andras (Nifargo)
 
 <table>
-  <tr>
-    <td>
-      <a href="https://github.com/Nifargo">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nifargo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Nifargo">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nifargo&layout=compact&langs_count=6&theme=tokyonight"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="120" alt="Java">
-    </td>
-    <td>
-      <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="120" alt="JavaScript">
-    </td>
-    <td>
-      <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="120" alt="TypeScript">
-    </td>
-    <td>
-      <img src="https://images.credly.com/size/680x680/images/af6eb254-169b-452a-a63c-5a1f986ed4cc/appium.png" width="120" alt="Appium">
-    </td>
-    <td>
-      <img src="https://miro.medium.com/v2/resize:fit:768/format:webp/1*qsVbAwEINjfgaGe2SuK3oQ.png" width="120" alt="Selenium">
-    </td>
-    <td>
-      <img src="https://avatars0.githubusercontent.com/u/19369327?s=400&v=4" width="120" alt="RestAssured">
-    </td>
-  </tr>
+  <a href="https://github.com/Nifargo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nifargo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nifargo&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="120" alt="Java">
+    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="120" alt="JavaScript">
+    <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="120" alt="TypeScript">
+    <img src="https://images.credly.com/size/680x680/images/af6eb254-169b-452a-a63c-5a1f986ed4cc/appium.png" width="120" alt="Appium">
+    <img src="https://miro.medium.com/v2/resize:fit:768/format:webp/1*qsVbAwEINjfgaGe2SuK3oQ.png" width="120" alt="Selenium">
+    <img src="https://avatars0.githubusercontent.com/u/19369327?s=400&v=4" width="120" alt="RestAssured">
+  </a>
 </table>
 
 <div> 
