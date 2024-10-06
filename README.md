@@ -1,10 +1,10 @@
-# Hello world of codding, My name is Andras(Nifargo), be very welcome
+# Dive into the World of Code – I'm Andras (Nifargo)
 
 <table>
   <a href="https://github.com/Nifargo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nifargo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nifargo&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img src="https://img.icons8.com/color/2x/java.png" width="120" alt="Java">
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="120" alt="Java">
   <img src="https://static.vecteezy.com/system/resources/previews/000/339/162/non_2x/javascript-logo.png" width="120" alt="JavaScript">
   <img src="https://static.vecteezy.com/system/resources/previews/027/141/881/non_2x/typescript-logo.png" width="120" alt="TypeScript">
   <img src="https://img.icons8.com/color/2x/appium.png" width="120" alt="Appium">
