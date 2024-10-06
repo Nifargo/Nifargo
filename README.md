@@ -7,7 +7,7 @@
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="120" alt="Java">
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="120" alt="JavaScript">
   <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="120" alt="TypeScript">
-  <img src="https://www.credly.com/badges/6b37ee0c-a78b-4286-b910-e911f65d3cf0" width="120" alt="Appium">
+  <img src="https://images.credly.com/size/680x680/images/af6eb254-169b-452a-a63c-5a1f986ed4cc/appium.png" width="120" alt="Appium">
   <img src="https://playwright.dev/img/logo-large.png" width="120" alt="Playwright">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Selenium_logo.png" width="120" alt="Selenium">
   <img src="https://rest-assured.io/images/rest-assured-logo.png" width="120" alt="RestAssured">
